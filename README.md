@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Noire 👋 </h1>
 <h3 align="center">Software Engineer 🖥️ | SNS ➡️ E-Commerce ➡️ FinTech ➡️ Education | Focus on AI and industry upgrades 🚀 #AIEnthusiast #OpenSource</h3>
 <div>
-  <img width = "35%" align="right" alt="PIC" height="300px" src="./lama.jpg" />
+  <img width = "35%" align="right" alt="PIC" src="./lama.jpg" />
   <div align="left"> 
     <h3> 👨🏻‍💻 About </h3> <img alt="Static Badge" src="https://img.shields.io/badge/-%40noirwinter-ffffff?style=flat-square&logo=X&logoColor=black&link=https%3A%2F%2Fwww.x.com%2Fnoirwinter">
  <img alt="Static Badge" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto%3Acaojiadong%40gmail.com">
